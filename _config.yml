@@ -1,0 +1,28 @@
+name: arms space in the universe
+favicon: null
+layout_spectrum: 0.9443842784967273
+typography_spectrum: 0.37046703486703336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5252598570659757
+  lightness: 0.41885257698595524
+  saturation: 0.8026825487613678
+  rhythmicContrast: 0.3155500718858093
+purpose: []
